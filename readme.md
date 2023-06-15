@@ -3,7 +3,7 @@
 ## Screenshots
 ![ChatGPT Clone Main Page](Screenshots_of_ChatGPT_Clone/ChatGPT_Clone_1.png)
 ![ChatGPT Clone Response Page](Screenshots_of_ChatGPT_Clone/ChatGPT_Clone_2.png)
-
+![ChatGPT Clone Response Page](Screenshots_of_ChatGPT_Clone/MonDB.png)
 
 ## Creating Virtual Environment:
     1. python -m venv venv
