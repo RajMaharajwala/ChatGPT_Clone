@@ -1,5 +1,8 @@
 # Project: ChatGPT Clone
 
+## Screenshots
+`[Image 1](img1.png)`, `[Image 2](img2.png)`,
+
 ## Creating Virtual Environment:
     1. python -m venv venv
     2. venv\Scripts\activate
