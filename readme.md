@@ -1,7 +1,7 @@
 # Project: ChatGPT Clone
 
 ## Screenshots
-`[Image 1](img1.png)`, `[Image 2](img2.png)`,
+`[ChatGPT Clone Main Page](Screenshots_of_ChatGPT_Clone/ChatGPT_Clone_1.png)`, `[ChatGPT Clone Response Page](img2.png)`,
 
 ## Creating Virtual Environment:
     1. python -m venv venv
